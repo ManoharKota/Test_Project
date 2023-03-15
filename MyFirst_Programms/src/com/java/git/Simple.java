@@ -8,7 +8,8 @@ public class Simple {
 	class TestOverloading1{  
 	public static void main(String[] args){  
 	System.out.println(Simple.add(11,11));  
-	System.out.println(Simple.add(11,11,11));  
+	System.out.println(Simple.add(11,11,11)); oo898uuhuiuiuiuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+	
 	
 	
 	
